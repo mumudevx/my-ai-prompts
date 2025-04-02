@@ -76,4 +76,6 @@ Döküman dilini Türkçe yap.
 Giriş(içindekiler) dosyasında diğer dosyalara link vermeyi unutma.
 ```
 
+## Üretilen Örnek Teknik Döküman
+[Teknik Döküman](/files/technical-document.zip)
 
